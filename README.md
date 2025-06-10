@@ -22,6 +22,7 @@ cd fix_kali_gpg
 chmod +x fix_kali_gpg.sh
 ./fix_kali_gpg.sh
 
+---
 
 🐱‍👤 Requisitos
 Kali Linux (rolling)
@@ -30,6 +31,7 @@ Conexión a internet
 
 Permisos sudo
 
+---
 
 ✨ Autor
 Pablo C. aka Hackblo
