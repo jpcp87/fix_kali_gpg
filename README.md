@@ -34,11 +34,7 @@ Conexión a internet
 
 Permisos sudo
 
-<<<<<<< HEAD
----
 
-=======
->>>>>>> f58b727 (README visual con badges, ASCII y estilo Hackblo activado 💀)
 ✨ Autor
 Pablo C. aka Hackblo
 
