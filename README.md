@@ -1,20 +1,23 @@
-# 🔐 fix_kali_gpg
+🔐 fix_kali_gpg — firmado por Hackblo 💀🐱‍💻
 
-Script en Bash para solucionar el error de clave GPG faltante en sistemas Kali Linux con el repositorio `kali-rolling`.
+
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Built with Bash](https://img.shields.io/badge/Bash-%23121011.svg?logo=gnu-bash&logoColor=white)]()
+[![Hackblo](https://img.shields.io/badge/Hackblo-💀_power-red)]()
 
 ---
 
 ## 📦 ¿Qué hace este script?
 
-Este script ejecuta las siguientes acciones:
+Este script en Bash repara el error de clave GPG faltante en Kali Linux al:
 
-- Descarga e instala la clave GPG oficial de Kali Linux
-- Ejecuta `apt update` y `apt full-upgrade`
-- Limpia paquetes y archivos innecesarios con `autoremove` y `autoclean`
+- Descargar la clave pública oficial del repositorio
+- Ejecutar `apt update` y `apt full-upgrade`
+- Limpiar el sistema con `autoremove` y `autoclean`
 
 ---
 
-## 🚀 ¿Cómo se usa?
+## 🚀 ¿Cómo usarlo?
 
 ```bash
 git clone git@github.com:jpcp87/fix_kali_gpg.git
@@ -31,10 +34,15 @@ Conexión a internet
 
 Permisos sudo
 
+<<<<<<< HEAD
 ---
 
+=======
+>>>>>>> f58b727 (README visual con badges, ASCII y estilo Hackblo activado 💀)
 ✨ Autor
 Pablo C. aka Hackblo
 
 📜 Licencia
-Distribuido bajo la MIT License. Libre de usar, modificar y compartir.
+Distribuido bajo la MIT License. Puedes usarlo, modificarlo y compartirlo libremente.
+
+> “Actualiza tu sistema como un pro. Sin errores, sin excusas.” — Hackblo
